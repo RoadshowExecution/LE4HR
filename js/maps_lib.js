@@ -331,13 +331,13 @@
           <div class='row-fluid item-list'>\
             <div class='span12'>\
                 <div class='well'>\
-              " + '<b>&#8226; Venue: </b>' + data[row][0] + "\
+              " + '<b>&#8226; Host Location: </b>' + data[row][0] + "\
               <br />\
               " + '<b>&#8226; Date: </b>' + data[row][2] + "\
               <br />\
-              " + '<b>&#8226; Address: </b>' + data[row][1] + "\
+              " + '<b>&#8226; Host Address: </b>' + data[row][1] + "\
               <br />\
-              " + '<b>&#8226; Offering ID: </b>' + data[row][3] + "\
+              " + '<b>&#8226; Captain: </b>' + data[row][3] + "\
               <br />\
                 </div>\
             </div>\
