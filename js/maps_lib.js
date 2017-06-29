@@ -337,7 +337,7 @@
               <br />\
               " + '<b>&#8226; Address: </b>' + data[row][2] + "\
               <br />\
-              " + '<b>&#8226; Captain: </b>' + data[row][3] + "\
+              " + '<b>&#8226; Captain: </b>' + data[row][2] + "\
               <br />\
                 </div>\
             </div>\
