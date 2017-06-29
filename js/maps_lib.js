@@ -337,7 +337,7 @@
               <br />\
               " + '<b>&#8226; Address: </b>' + data[row][2] + "\
               <br />\
-              " + '<b>&#8226; Captain: </b>' + <a href="mailto:data[row][4]">data[row][3]</a> + "\
+              " + '<b>&#8226; Captain: </b>' + data[row][3] + "\
               <br />\
                 </div>\
             </div>\
