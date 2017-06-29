@@ -333,11 +333,11 @@
                 <div class='well'>\
               " + '<b>&#8226; Venue: </b>' + data[row][0] + "\
               <br />\
-              " + '<b>&#8226; Date: </b>' + data[row][1] + "\
+              " + '<b>&#8226; Date: </b>' + data[row][0] + "\
               <br />\
-              " + '<b>&#8226; Address: </b>' + data[row][2] + "\
+              " + '<b>&#8226; Address: </b>' + data[row][0] + "\
               <br />\
-              " + '<b>&#8226; Captain: </b>' + data[row][2] + "\
+              " + '<b>&#8226; Captain: </b>' + data[row][0] + "\
               <br />\
                 </div>\
             </div>\
