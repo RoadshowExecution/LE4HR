@@ -333,9 +333,9 @@
                 <div class='well'>\
               " + '<b>&#8226; Host Location: </b>' + data[row][0] + "\
               <br />\
-              " + '<b>&#8226; Date: </b>' + data[row][2] + "\
-              <br />\
               " + '<b>&#8226; Host Address: </b>' + data[row][1] + "\
+              <br />\
+              " + '<b>&#8226; Date: </b>' + data[row][2] + "\
               <br />\
               " + '<b>&#8226; Captain: </b>' + data[row][3] + "\
               <br />\
